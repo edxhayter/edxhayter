@@ -10,11 +10,8 @@ I'm Ed Hayter, a **Data Analysis Consultant** with a passion for developing effi
 
 ### Certifications
 
-| Certification | |
-|---------------|:-:|
-| DBT Analytics Engineering Certification | ![DBT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108087657) |
-| Tableau Data Analyst Certification | ![Tableau](https://www.credly.com/badges/cf7e1269-7409-407d-8681-6b65c5c25b75/public_url) |
-| Alteryx Designer Advanced Certified | ![Alteryx Designer](https://via.placeholder.com/100) |
-| Alteryx Server Admin Certified | ![Alteryx Server](https://via.placeholder.com/100) |
+| DBT Analytics Engineering Certification | Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Alteryx Server Admin Certified |
+|:-:|:-:|:-:|:-:|
+| ![DBT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108087657) | ![Tableau](https://www.credly.com/badges/cf7e1269-7409-407d-8681-6b65c5c25b75/public_url) | ![Alteryx Designer](https://via.placeholder.com/100) | ![Alteryx Server](https://via.placeholder.com/100) |
 
 Let's connect to discuss data, analytics, or potential projects!
