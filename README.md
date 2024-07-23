@@ -29,16 +29,16 @@ Outside of work, Ed cheers on Arsenal in the Premier League, and in his free tim
 - The SQL Murder Mystery is a classic introduction to sql queries. Explore Ed's path to solving the Murder Mystery including a Readme that includes sample query results to explain how he got to the solution. Crimesolving [HERE](https://github.com/edxhayter/SQL-Murder-Mystery)
 
 #### Tableau Projects (Click the Image to go to Tableau Public)
-- ![Tableau Superstore KPI](https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344)(https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard)
+- [![Tableau Superstore KPI](https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344)](https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard)
   - **Description**: This Dashboard provides an executive overview of key performance metrics for a retail store comparing performance to prior year.
  
-- ![Tableau Minesweeper](https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0)(https://public.tableau.com/app/profile/edwardhayter/viz/ExpertMinesweeper/Minesweeper)
+- [![Tableau Minesweeper](https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0)](https://public.tableau.com/app/profile/edwardhayter/viz/ExpertMinesweeper/Minesweeper)
   - **Description**: Experience this classic PC game on Tableau with this homage that aims to replicate as much of the game's original functionality as possible.
  
-- ![NFL Combine KPI](https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4)(https://public.tableau.com/app/profile/edwardhayter/viz/NFLCombineKPIWorkbook/2023NFLCombineKPIDashboardFinal)
+- [![NFL Combine KPI](https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4)](https://public.tableau.com/app/profile/edwardhayter/viz/NFLCombineKPIWorkbook/2023NFLCombineKPIDashboardFinal)
   - **Description**: Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.
  
-- ![Survey Dashboard](https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb)(https://public.tableau.com/app/profile/edwardhayter/viz/SurveyDataAnalysisAcceleratorEd/SurveyDataDashboard)
+- [![Survey Dashboard](https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb)](https://public.tableau.com/app/profile/edwardhayter/viz/SurveyDataAnalysisAcceleratorEd/SurveyDataDashboard)
   - **Description**: Using some fake data generated in R, Ed researched the visualizing survey data whitepaper produced by Tableau and produced this sample dashboard to explore the results of the fake survey.
 
 
