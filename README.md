@@ -31,24 +31,20 @@ Outside of work, Ed cheers on Arsenal in the Premier League, and in his free tim
 #### Tableau Projects (Click the Image to go to Tableau Public)
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard">
-    <img src="https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344" width="30%">
+    <img src="https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344" width="50%">
 </a>
-This Dashboard provides an executive overview of key performance metrics for a retail store comparing performance to prior year.
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/ExpertMinesweeper/Minesweeper">
-    <img src="https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0" width="30%">
+    <img src="https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0" width="50%">
 </a>
-Experience this classic PC game on Tableau with this homage that aims to replicate as much of the game's original functionality as possible.
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/NFLCombineKPIWorkbook/2023NFLCombineKPIDashboardFinal">
-    <img src="https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4" width="30%">
+    <img src="https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4" width="50%">
 </a>
-Explore how college athletes score within their data class in the physical testing of the NFL Combine with this Dashboard.
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/SurveyDataAnalysisAcceleratorEd/SurveyDataDashboard">
-    <img src="https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb" width="30%">
+    <img src="https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb" width="50%">
 </a>
-Using some fake data generated in R, Ed researched the visualizing survey data whitepaper produced by Tableau and produced this sample dashboard to explore the results of the fake survey.
 
 
 Feel free to reach out to discuss data, analytics, potential projects or Data Engineering Employment Opportunities.
