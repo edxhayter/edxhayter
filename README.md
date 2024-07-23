@@ -31,17 +31,17 @@ Outside of work, Ed cheers on Arsenal in the Premier League, and in his free tim
 #### Tableau Projects (Click the Image to go to Tableau Public)
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/Year-to-DateExecutivePerformanceOverview/KPIDashboard">
-    <img src="https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344" width="45%">
+    <img src="https://github.com/user-attachments/assets/b29679c8-e17b-4320-8715-6cdcbf5a7344" width="49%">
 </a>
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/ExpertMinesweeper/Minesweeper">
-    <img src="https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0" width="45%">
+    <img src="https://github.com/user-attachments/assets/68b9967b-dac4-4458-8085-fe27e7a797d0" width="49%">
 </a>
 
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/NFLCombineKPIWorkbook/2023NFLCombineKPIDashboardFinal">
-    <img src="https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4" width="45%">
+    <img src="https://github.com/user-attachments/assets/68e72416-abb8-4f3a-84e1-98e9df9b28d4" width="49%">
 </a>
 <a href="https://public.tableau.com/app/profile/edwardhayter/viz/SurveyDataAnalysisAcceleratorEd/SurveyDataDashboard">
-    <img src="https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb" width="45%">
+    <img src="https://github.com/user-attachments/assets/e24f1454-d8d6-4857-9fb0-7a3b811280fb" width="49%">
 </a>
 
 
