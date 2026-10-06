@@ -1,6 +1,6 @@
 # TLDR
 
-I’m an enthusiastic data problem solver who thrives on transforming raw data into actionable insights. My go-to tech stack includes dbt on Snowflake, with reporting in Tableau, though I also enjoy leveraging Alteryx for no-code solutions. I also have experience working with Google Cloud Platform
+I’m an enthusiastic data problem solver who thrives on transforming raw data into actionable insights. I have experience across cloud platforms like AWS and GCP. Modern data platforms like Snowflake and Databricks. I have worked across various industries including telecommunications and financial services.
 
 # Bio
 
