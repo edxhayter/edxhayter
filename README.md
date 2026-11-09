@@ -25,7 +25,7 @@ Outside work, I’m a devoted Arsenal fan and enjoy golfing in my free time.
 
 | AWS Certified Data Engineer – Associate | Databricks Associate Certified Data Engineer | DBT Analytics Engineering Certification | Tableau Data Analyst Certification | Alteryx Designer Advanced Certified | Alteryx Server Admin Certified |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| ![AWS Data Engineer](https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png) | ![Databricks](https://www.databricks.com/learn/certification/data-engineer-associate) | ![DBT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108087657) | ![Tableau](https://github.com/user-attachments/assets/89195966-307c-469a-b2c1-d91170f88125) | ![Alteryx Designer](https://github.com/user-attachments/assets/14ad8ad2-999c-4f5f-be25-dbceefa151a7) | ![Alteryx Server](https://github.com/user-attachments/assets/f377cdef-f01d-4abc-bc2b-b3e95d76c5ff) |
+| ![AWS Data Engineer](https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png) | ![Databricks](https://www.databricks.com/sites/default/files/2025-10/associate-badge-de.png?v=1780602421) | ![DBT](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/108087657) | ![Tableau](https://github.com/user-attachments/assets/89195966-307c-469a-b2c1-d91170f88125) | ![Alteryx Designer](https://github.com/user-attachments/assets/14ad8ad2-999c-4f5f-be25-dbceefa151a7) | ![Alteryx Server](https://github.com/user-attachments/assets/f377cdef-f01d-4abc-bc2b-b3e95d76c5ff) |
 
 # Sample Work
 
